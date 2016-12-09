@@ -16,6 +16,22 @@
 		"jest": "17.0.3",
 		"react-test-renderer": "15.4.1"
 	},
+	"repository": {
+	 "type": "git",
+	 "url": "git+https://github.com/igorcosta/Elly.git"
+ },
+ "keywords": [
+	 "language",
+	 "vision-api",
+	 "googlecloud",
+	 "cloudapi"
+ ],
+ "author": "Igor Costa",
+ "license": "Apache-2.0",
+ "bugs": {
+	 "url": "https://github.com/igorcosta/Elly/issues"
+ },
+ "homepage": "https://github.com/igorcosta/Elly#readme",
 	"jest": {
 		"preset": "react-native"
 	}
