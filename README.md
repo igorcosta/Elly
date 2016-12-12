@@ -8,14 +8,13 @@ To help her, I designed and developed this app and since I'm passion about open-
 and lots of people struggling to learn English, here's my little contribution for those.
 
 In 2015 we moved to New Zealand all the way from Brazil and we're really enjoying the time here.
-While we're enjoying the time here we are at the same time struggling to learn English.
-So to help my wife I've develop this Mobile Application that works for iOS and Android.
+At the same time she's struggling to learn English, so to help her I've developed this Mobile App that works for iOS and Android.
 
-This App she's been using like her Swiss Army Knife for every situation.
+It's like she uses this app as her conversational Swiss Army Knife.
 
 ### Method applied
 
-None, Kids while learning a new language they learn by experience, listening and doing so, they learn.
+None. Kids while learning a new language they learn by experience, listening and doing so, they learn.
 
 Ely, learns pretty quick when she listen or see a picture and I think that most humans have this photography memory approach. Don't tell me that you don't have, because you're lying, you can recognize your mom's face? If your answer is *YES*, so you can.
 
@@ -29,12 +28,11 @@ Ely, learns pretty quick when she listen or see a picture and I think that most 
   - React Native  _to build the version for iOS and Android_
 
 ### APIs connected
+[Oxford Dictionary API]: https://developer.oxforddictionaries.com/documentation
+[Google Vision API]: https://cloud.google.com/vision/
+[Google Speech API] : https://cloud.google.com/speech/
+[API.ai]: http://api.ai
 
-    [Oxford Dictionary API]:https://developer.oxforddictionaries.com/documentation
-    [Google Vision API]: https://cloud.google.com/vision/
-    [Google Speech API] : https://cloud.google.com/speech/
-    [API.ai]: http://api.ai
-    
 
 
 ### Costs
