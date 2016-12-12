@@ -1,7 +1,7 @@
 #Elly
 
 ![Screenshots of Elly App]
-(https://github.com/igorcosta/Ellt/blob/master/img/elly_prototype.png)
+(img/elly_prototype.png)
 
 My wife decided to learn English, so this App is to help her and many more.
 
