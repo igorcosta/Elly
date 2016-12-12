@@ -14,7 +14,7 @@ It's like she uses this app as her conversational Swiss Army Knife.
 
 ### Method applied
 
-None. Kids while learning a new language they learn by experience, listening and doing so, they learn.
+None. let's Kids while learning a new language they learn by experience, listening and doing so.
 
 Ely, learns pretty quick when she listen or see a picture and I think that most humans have this photography memory approach. Don't tell me that you don't have, because you're lying, you can recognize your mom's face? If your answer is *YES*, so you can.
 
@@ -28,10 +28,9 @@ Ely, learns pretty quick when she listen or see a picture and I think that most 
   - React Native  _to build the version for iOS and Android_
 
 ### APIs connected
-[Oxford Dictionary API]: https://developer.oxforddictionaries.com/documentation
-[Google Vision API]: https://cloud.google.com/vision/
-[Google Speech API] : https://cloud.google.com/speech/
-[API.ai]: http://api.ai
+[Oxford Dictionary API](https://developer.oxforddictionaries.com/documentation)
+[Google Vision API](https://cloud.google.com/vision/)
+[Google Speech API](https://cloud.google.com/speech/)
 
 
 
