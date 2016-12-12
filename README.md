@@ -29,7 +29,9 @@ Ely, learns pretty quick when she listen or see a picture and I think that most 
 
 ### APIs connected
 [Oxford Dictionary API](https://developer.oxforddictionaries.com/documentation)
+
 [Google Vision API](https://cloud.google.com/vision/)
+
 [Google Speech API](https://cloud.google.com/speech/)
 
 
